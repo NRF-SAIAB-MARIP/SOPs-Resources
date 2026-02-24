@@ -10,7 +10,7 @@
 <a href="mailto:atf.bernard@saiab.nrf.ac.za?cc=e.heyns-veale@saiab.nrf.ac.za,a.vanwyk@saiab.nrf.ac.za&subject=MARIP%20Website%20Inquiry">Contact</a>
 </div>
 
-<iframe src="https://nrfacza.sharepoint.com/sites/SAIAB_MaRIP/_layouts/15/embed.aspx?UniqueId=1969856d-d759-4a47-9ae9-a0158bdcee75" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="26-02_sa_bruvs_network_map"></iframe>
+<iframe src="https://nrfacza.sharepoint.com/sites/SAIAB_MaRIP/_layouts/15/embed.aspx?UniqueId=1969856d-d759-4a47-9ae9-a0158bdcee75" width="100%" height="500" frameborder="0" scrolling="no" allowfullscreen title="26-02_sa_bruvs_network_map"></iframe>
 
 <br>
 
