@@ -46,7 +46,7 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
 - SOP Decision Tree (Figure 7) — helps you choose which SOPs to download
 
 <p align="center">
-  <img src="assets/img/figure1_placeholder.png" width="80%"><br>
+  <img src="https://drive.google.com/uc?export=view&id=1BsHrzh8Gx1fpr1gntOOw7YQXRZPKGaIG" width="100%">
   <em>Figure 1: Complete MaRIP project workflow</em>
 </p>
 
@@ -57,12 +57,6 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
 Refer to the project setup decision tree in SOP1a (Figure 2) to confirm which option applies to you.
 
 <iframe src="https://drive.google.com/file/d/13nf0uaZjpP-QokfQUO__gxV727XF38hu/preview" width="100%" height="500px" ></iframe>
-
-<p align="center">
-  <img src="assets/img/figure2_placeholder.png" width="80%"><br>
-  <em>Figure 2: Project setup decision tree</em>
-</p>
-
 
 **Option 1 — New Project** *(permits, ethics, and full setup required)*
 
