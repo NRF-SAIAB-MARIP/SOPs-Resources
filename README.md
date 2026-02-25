@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-![Mar-RIP](/assets/img/marip.png)
+![Mar-RIP](/assets/img/MARIP_Logo.png)
 
 <div align="center">
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
