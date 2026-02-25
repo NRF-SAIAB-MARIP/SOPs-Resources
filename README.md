@@ -18,7 +18,7 @@ If this is your first time working on a MaRIP project, follow Parts 1 to 3 below
 
 All resources are available in the downloadable <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">MaRIP Shared Resources folder</a>. 
 
-If you are already familiar with the setup and just need to find something, skip to the [Quick Reference](#quick-reference) section at the bottom or go straight to [Downloads](downloads.md).
+If you are already familiar with the setup and just need to find something, skip to the [_Quick Reference & Downloads_](#quick-reference--downloads) section at the bottom of the page.
 
 ## Part 1 - Download and Read SOP1a
 
@@ -93,16 +93,35 @@ Use SOP1a to populate your folder with the resources you need from Shared Resour
 
 Once your folder is set up and populated, read the SOPs that apply to your role and methods. Use the SOP Decision Tree (SOP1a Figure 7) if you are unsure which apply to you. All SOPs are available on the [Downloads](downloads.md) page.
 
-## Quick Reference
+## Quick Reference & Downloads
 
-Already familiar with the setup and just need to find something?
+Already familiar with the setup and just need to find something? Use the tables below to jump straight to the resource you need.
 
-| Resource | Purpose |
-|---|---|
-| `Shared_resources.png` | Visual map of the entire Shared Resources folder |
-| `SOP_decision_tree.pdf` | Guidance for choosing the appropriate SOP for your role |
+### Folder Templates
 
-Both files are available on the [Downloads](downloads.md) page.
+| Folder | Link |
+|--------|:----:|
+| Template Folder System | [Open ↗](https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link) |
+| Project Folder | [Open ↗](https://drive.google.com/drive/folders/1uwe-C10x_U8FtBPy6i_PFgSEBUsP96qg?usp=share_link) |
+| Fieldtrip Folder | [Open ↗](https://drive.google.com/drive/folders/1kxoaZLK3YDrvIXf9P_Bwp9jUbYGhdVAp?usp=share_link) |
+| Data Extraction Folder | [Open ↗](https://drive.google.com/drive/folders/1X3S_NhucjL3Vp2_r4H774H5xdL9fFBA3?usp=share_link) |
+
+### Standard Operating Procedures & Resources
+
+| SOP | Description | Link |
+|-----|-------------|:----:|
+| SOP1a | Project Setup and Data Management | [Open ↗](https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd) |
+| SOP1a | Quality Control | [Open ↗](https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd) |
+| SOP1c | Calibration | [Open ↗](https://drive.google.com/drive/folders/10qKTiBBTQqX2ZB2cpK67g1nnbTm-6Go9) |
+| SOP2a | BRUVs sampling | [Open ↗](https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay) |
+| SOP2b | Landers sampling | [Open ↗](https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay) |
+| SOP2c | ROVs sampling | [Open ↗](https://drive.google.com/drive/folders/1DHdGFUJ0vWLh121OseOZjME5FPagKrdH) |
+| SOP2d | DOVs sampling | [Open ↗](https://drive.google.com/drive/folders/1DHdGFUJ0vWLh121OseOZjME5FPagKrdH) |
+| SOP2e | DropCam sampling | [Open ↗](https://drive.google.com/drive/folders/1RKrnwzT8RMyotGzyHn2CC2xKnUc6TTkX) |
+| SOP2f | CTD sampling | [Open ↗](https://drive.google.com/drive/folders/1qhyBOrI8ACPmwrG6VGShYYnt3Pq-Tftg) |
+| SOP3a | Stationary video analysis (BRUVs \| Landers) | [Open ↗](https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320) |
+| SOP3b | Video transect analysis (ROVs \| DOVs) | [Open ↗](https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320) |
+| SOP3c | Still image analysis (DropCam \| ROVs \| Landers) | [Open ↗](https://drive.google.com/drive/folders/1DI8TXl8YBzC_9G87NtHstkYEg08JkXAp) |
 
 <p align="center">
   <img src="assets/img/Footer.png" width="50%">
