@@ -133,11 +133,7 @@ Already familiar with the setup and just need to find something? Use the tables 
 
 # Developers
 
-| Role | Name |
-|------|------|
-| Author, maintainer | Angus John van Wyk |
-| Author | Elodie Heyns-Veale |
-| Author | Anthony Bernard |
+**Author & maintainer:** Angus van Wyk,  **Author:** Elodie Heyns-Veale,  **Author:** Anthony Bernard
 
 <p align="center">
   <img src="assets/img/Footer.png" width="50%">
