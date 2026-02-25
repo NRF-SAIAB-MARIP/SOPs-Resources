@@ -48,7 +48,7 @@ SOP1a covers the following, all of which you will need to refer to as you work t
 
 ### Step 1: Choose Your Setup
 
-Before downloading anything, use the <a href="assets/img/MARIP_ProjectSetupTree.png" target="_blank">project setup decision tree (Figure 2)</a> in SOP1a to confirm which of the three options below applies to you. Each option requires a different set of folders and resources.
+Before downloading anything, use the <a href="assets/img/MARIP_ProjectSetupTree.png" target="_blank">project setup decision tree (Figure 2)</a> in <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a</a> to confirm which of the three options below applies to you. Each option requires a different set of folders and resources.
 
 <iframe src="https://drive.google.com/file/d/13nf0uaZjpP-QokfQUO__gxV727XF38hu/preview" width="100%" height="500px"></iframe>
 
