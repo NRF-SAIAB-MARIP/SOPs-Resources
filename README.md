@@ -99,27 +99,27 @@ Already familiar with the setup and just need to find something? Use the tables 
 
 | Folder | Link |
 |--------|:----:|
-| Template Folder System | [Open ↗](https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link) |
-| Project Folder | [Open ↗](https://drive.google.com/drive/folders/1uwe-C10x_U8FtBPy6i_PFgSEBUsP96qg?usp=share_link) |
-| Fieldtrip Folder | [Open ↗](https://drive.google.com/drive/folders/1kxoaZLK3YDrvIXf9P_Bwp9jUbYGhdVAp?usp=share_link) |
-| Data Extraction Folder | [Open ↗](https://drive.google.com/drive/folders/1X3S_NhucjL3Vp2_r4H774H5xdL9fFBA3?usp=share_link) |
+| Template Folder System | <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Open ↗</a> |
+| Project Folder | <a href="https://drive.google.com/drive/folders/1uwe-C10x_U8FtBPy6i_PFgSEBUsP96qg?usp=share_link" target="_blank">Open ↗</a> |
+| Fieldtrip Folder | <a href="https://drive.google.com/drive/folders/1kxoaZLK3YDrvIXf9P_Bwp9jUbYGhdVAp?usp=share_link" target="_blank">Open ↗</a> |
+| Data Extraction Folder | <a href="https://drive.google.com/drive/folders/1X3S_NhucjL3Vp2_r4H774H5xdL9fFBA3?usp=share_link" target="_blank">Open ↗</a> |
 
 ### Standard Operating Procedures & Resources
 
 | SOP | Description | Link |
 |-----|-------------|:----:|
-| SOP1a | Project Setup and Data Management | [Open ↗](https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd) |
-| SOP1a | Quality Control | [Open ↗](https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd) |
-| SOP1c | Calibration | [Open ↗](https://drive.google.com/drive/folders/10qKTiBBTQqX2ZB2cpK67g1nnbTm-6Go9) |
-| SOP2a | BRUVs sampling | [Open ↗](https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay) |
-| SOP2b | Landers sampling | [Open ↗](https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay) |
-| SOP2c | ROVs sampling | [Open ↗](https://drive.google.com/drive/folders/1DHdGFUJ0vWLh121OseOZjME5FPagKrdH) |
-| SOP2d | DOVs sampling | [Open ↗](https://drive.google.com/drive/folders/1DHdGFUJ0vWLh121OseOZjME5FPagKrdH) |
-| SOP2e | DropCam sampling | [Open ↗](https://drive.google.com/drive/folders/1RKrnwzT8RMyotGzyHn2CC2xKnUc6TTkX) |
-| SOP2f | CTD sampling | [Open ↗](https://drive.google.com/drive/folders/1qhyBOrI8ACPmwrG6VGShYYnt3Pq-Tftg) |
-| SOP3a | Stationary video analysis (BRUVs \| Landers) | [Open ↗](https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320) |
-| SOP3b | Video transect analysis (ROVs \| DOVs) | [Open ↗](https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320) |
-| SOP3c | Still image analysis (DropCam \| ROVs \| Landers) | [Open ↗](https://drive.google.com/drive/folders/1DI8TXl8YBzC_9G87NtHstkYEg08JkXAp) |
+| SOP1a | Project Setup and Data Management | <a href="https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd" target="_blank">Open ↗</a> |
+| SOP1b | Quality Control | <a href="https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd" target="_blank">Open ↗</a> |
+| SOP1c | Calibration | <a href="https://drive.google.com/drive/folders/10qKTiBBTQqX2ZB2cpK67g1nnbTm-6Go9" target="_blank">Open ↗</a> |
+| SOP2a | BRUVs sampling | <a href="https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay" target="_blank">Open ↗</a> |
+| SOP2b | Landers sampling | <a href="https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay" target="_blank">Open ↗</a> |
+| SOP2c | ROVs sampling | <a href="https://drive.google.com/drive/folders/1DHdGFUJ0vWLh121OseOZjME5FPagKrdH" target="_blank">Open ↗</a> |
+| SOP2d | DOVs sampling | <a href="https://drive.google.com/drive/folders/1DHdGFUJ0vWLh121OseOZjME5FPagKrdH" target="_blank">Open ↗</a> |
+| SOP2e | DropCam sampling | <a href="https://drive.google.com/drive/folders/1RKrnwzT8RMyotGzyHn2CC2xKnUc6TTkX" target="_blank">Open ↗</a> |
+| SOP2f | CTD sampling | <a href="https://drive.google.com/drive/folders/1qhyBOrI8ACPmwrG6VGShYYnt3Pq-Tftg" target="_blank">Open ↗</a> |
+| SOP3a | Stationary video analysis (BRUVs \| Landers) | <a href="https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320" target="_blank">Open ↗</a> |
+| SOP3b | Video transect analysis (ROVs \| DOVs) | <a href="https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320" target="_blank">Open ↗</a> |
+| SOP3c | Still image analysis (DropCam \| ROVs \| Landers) | <a href="https://drive.google.com/drive/folders/1DI8TXl8YBzC_9G87NtHstkYEg08JkXAp" target="_blank">Open ↗</a> |
 
 <p align="center">
   <img src="assets/img/Footer.png" width="50%">
