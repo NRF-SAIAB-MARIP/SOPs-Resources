@@ -39,7 +39,7 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
 - SOP Decision Tree (Figure 7) — helps you choose which SOPs to download
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1BsHrzh8Gx1fpr1gntOOw7YQXRZPKGaIG" width="100%"><br>
+  <img src="https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd" width="100%"><br>
   <em>Figure 1: Complete MaRIP project workflow</em>
 </p>
 
