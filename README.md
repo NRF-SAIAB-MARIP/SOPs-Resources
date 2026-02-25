@@ -19,14 +19,15 @@ If this is your first time working on a MaRIP project, follow Parts 1 to 3 below
 If you are already familiar with the setup and just need to find something, skip to the [_Quick Reference & Downloads_](#quick-reference--downloads) section at the bottom of the page.
 
 
-
 ## Part 1 — Download and Read SOP1a
 
 Before doing anything else, download and read <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a: Project Setup and Data Management</a>. This is the foundation document for all MaRIP projects and everything in Parts 2 and 3 refers back to it.
 
 <iframe src="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" width="100%" height="500px"></iframe>
 
-The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. Access is view and download only — contact a MaRIP staff member if you do not yet have access. SOP1a is located at: `1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
+The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. 
+
+<a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a</a> is located at: `1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
 
 SOP1a covers the following, all of which you will need to refer to as you work through Parts 2 and 3:
 
@@ -57,7 +58,7 @@ Before downloading anything, use the <a href="assets/img/MARIP_ProjectSetupTree.
 
 1. Prepare your hard drive for field sampling
 2. Download the full <a href="https://drive.google.com/drive/folders/1uwe-C10x_U8FtBPy6i_PFgSEBUsP96qg?usp=share_link" target="_blank">Project Folder</a> from the <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Template Folder System</a> in Shared Resources: `1_project_setup > 1.1_data_management > template_folder_system`
-3. Rename the downloaded folder using your project unique identifier code (see SOP1a Section 1.2.4 for the naming convention)
+3. Rename the downloaded folder using your project unique identifier code (see <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a</a>  Section 1.2.4 for the naming convention)
 
 
 
