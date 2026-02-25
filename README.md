@@ -18,7 +18,7 @@ If this is your first time working on a MaRIP project, follow the three phases b
 
 ## Phase 1 — Download and Read SOP1a
 
-Before doing anything else, download and read **SOP1a: Project Setup and Data Management**.
+Before doing anything else, download and read <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a: Project Setup and Data Management</a>.
 
 <iframe src="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" width="100%" height="500px" ></iframe>
 
@@ -39,7 +39,7 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
 - SOP Decision Tree (Figure 7) — helps you choose which SOPs to download
 
 <p align="center">
-  <img src="https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd" width="100%"><br>
+  <img src="assets/img/MARIP_ProjectWorkflow.png" width="90%"><br>
   <em>Figure 1: Complete MaRIP project workflow</em>
 </p>
 
