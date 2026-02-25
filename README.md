@@ -20,7 +20,7 @@ All resources are available in the downloadable <a href="https://drive.google.co
 
 If you are already familiar with the setup and just need to find something, skip to the [Quick Reference](#quick-reference) section at the bottom or go straight to [Downloads](downloads.md).
 
-## Part 1 — Download and Read SOP1a
+## Part 1 - Download and Read SOP1a
 
 Before doing anything else, download and read <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a: Project Setup and Data Management</a>.
 
@@ -30,9 +30,9 @@ Location in <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZ
 
 SOP1a is the foundation document for all MaRIP projects. It contains:
 
-- Complete project workflow (Figure 1)
-- Project setup decision tree (Figure 2) — helps you choose your setup option
-- SOP framework overview
+- Complete <a href="assets/img/MARIP_ProjectWorkflow.png" target="_blank">project workflow</a>
+- <a href="assets/img/MARIP_ProjectSetupTree.png" target="_blank">Project setup decision tree</a> — helps you choose your setup option
+- <a href="assets/img/MARIP_SopFramework.png" target="_blank">SOP framework overview</a>
 - Data management systems:
   - Role-based workflow
   - Template folder system (TFS)
@@ -46,7 +46,7 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
   <em>Figure 1: Complete MaRIP project workflow</em>
 </p>
 
-## Part 2 — Implement the Steps in SOP1a
+## Part 2 - Implement the Steps in SOP1a
 
 ### Step 1: Choose Your Setup
 
@@ -94,7 +94,7 @@ Use SOP1a to populate your folder with the resources you need from Shared Resour
   <em>Figure 7: SOP Decision Tree</em>
 </p>
 
-## Part 3 — Read the Relevant SOPs for Your Role
+## Part 3 - Read the Relevant SOPs for Your Role
 
 Once your folder is set up and populated, read the SOPs that apply to your role and methods. Use the SOP Decision Tree (SOP1a Figure 7) if you are unsure which apply to you. All SOPs are available on the [Downloads](downloads.md) page.
 
