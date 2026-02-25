@@ -131,7 +131,13 @@ Already familiar with the setup and just need to find something? Use the tables 
 | SOP3b | Video transect analysis (ROVs \| DOVs) | <a href="https://drive.google.com/drive/folders/1h5S2q0t569MU-AYpKwgq3RX0HdxCR320" target="_blank">Open ↗</a> |
 | SOP3c | Still image analysis (DropCam \| ROVs \| Landers) | <a href="https://drive.google.com/drive/folders/1DI8TXl8YBzC_9G87NtHstkYEg08JkXAp" target="_blank">Open ↗</a> |
 
----
+# Developers
+
+| Role | Name |
+|------|------|
+| Author, maintainer | Angus John van Wyk |
+| Author | Elodie Heyns-Veale |
+| Author | Anthony Bernard |
 
 <p align="center">
   <img src="assets/img/Footer.png" width="50%">
