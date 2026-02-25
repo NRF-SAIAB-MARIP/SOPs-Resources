@@ -25,6 +25,8 @@ Before doing anything else, download and read <a href="https://drive.google.com/
 
 <iframe src="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" width="100%" height="500px"></iframe>
 
+<br>
+
 The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. 
 
 <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a</a> is located at: `1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
