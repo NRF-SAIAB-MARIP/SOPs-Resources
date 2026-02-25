@@ -7,6 +7,7 @@
 <a href="https://saiab.ac.za/platforms/marine-remote-imagery-platform-mar-ip/" target="_blank">About</a> -
 <a href="https://nrf-saiab-marip.github.io/SOPs-Resources/">SOPs & Resources</a> - 
 <a href="https://nrf-saiab-marip.github.io/SOPs-Resources/#quick-reference--downloads">Downloads</a> -
+<a href="https://github.com/NRF-SAIAB-MARIP/NRF-SAIAB-MARIP.github.io">GitHub</a> -
 <a href="mailto:atf.bernard@saiab.nrf.ac.za?cc=e.heyns-veale@saiab.nrf.ac.za,a.vanwyk@saiab.nrf.ac.za&subject=MARIP%20Website%20Inquiry">Contact</a>
 </div>
 
