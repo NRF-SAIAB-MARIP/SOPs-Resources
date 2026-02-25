@@ -20,7 +20,7 @@ If this is your first time working on a MaRIP project, follow the three phases b
 
 Before doing anything else, download and read **SOP1a: Project Setup and Data Management**.
 
-<iframe src="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ" width="100%" height="500px" ></iframe>
+<iframe src="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" width="100%" height="500px" ></iframe>
 
 **Location in Shared Resources:**
 `1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
