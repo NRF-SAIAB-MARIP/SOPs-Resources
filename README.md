@@ -14,16 +14,19 @@
 
 # Getting Started with MaRIP Shared Resources
 
-If this is your first time working on a MaRIP project, follow the three phases below in order. If you are already familiar with the setup and just need to find something, skip to the [Quick Reference](#quick-reference) section at the bottom or go straight to [Downloads](downloads.md).
+If this is your first time working on a MaRIP project, follow Parts 1 to 3 below in order, completing each step as you go. 
 
-## Phase 1 — Download and Read SOP1a
+All resources are available in the downloadable <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">MaRIP Shared Resources folder</a>. 
+
+If you are already familiar with the setup and just need to find something, skip to the [Quick Reference](#quick-reference) section at the bottom or go straight to [Downloads](downloads.md).
+
+## Part 1 — Download and Read SOP1a
 
 Before doing anything else, download and read <a href="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" target="_blank">SOP1a: Project Setup and Data Management</a>.
 
 <iframe src="https://drive.google.com/file/d/1wcK9LaCjf0wBrzzcJuivJ1hlzMvInafJ/preview" width="100%" height="500px" ></iframe>
 
-**Location in Shared Resources:**
-`1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
+Location in <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">Shared Resources</a> > `1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
 
 SOP1a is the foundation document for all MaRIP projects. It contains:
 
@@ -43,7 +46,7 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
   <em>Figure 1: Complete MaRIP project workflow</em>
 </p>
 
-## Phase 2 — Implement the Steps in SOP1a
+## Part 2 — Implement the Steps in SOP1a
 
 ### Step 1: Choose Your Setup
 
@@ -91,7 +94,7 @@ Use SOP1a to populate your folder with the resources you need from Shared Resour
   <em>Figure 7: SOP Decision Tree</em>
 </p>
 
-## Phase 3 — Read the Relevant SOPs for Your Role
+## Part 3 — Read the Relevant SOPs for Your Role
 
 Once your folder is set up and populated, read the SOPs that apply to your role and methods. Use the SOP Decision Tree (SOP1a Figure 7) if you are unsure which apply to you. All SOPs are available on the [Downloads](downloads.md) page.
 
