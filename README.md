@@ -6,7 +6,7 @@
 <a href="https://nrf-saiab-marip.github.io/">Home</a> - 
 <a href="https://saiab.ac.za/platforms/marine-remote-imagery-platform-mar-ip/" target="_blank">About</a> -
 <a href="https://nrf-saiab-marip.github.io/SOPs-Resources/">SOPs & Resources</a> - 
-<a href="https://nrf-saiab-marip.github.io/SOPs-Resources/">Downloads</a> - 
+<a href="https://nrf-saiab-marip.github.io/SOPs-Resources/#quick-reference--downloads">Downloads</a> -
 <a href="mailto:atf.bernard@saiab.nrf.ac.za?cc=e.heyns-veale@saiab.nrf.ac.za,a.vanwyk@saiab.nrf.ac.za&subject=MARIP%20Website%20Inquiry">Contact</a>
 </div>
 
@@ -15,8 +15,6 @@
 # Getting Started with MaRIP Shared Resources
 
 If this is your first time working on a MaRIP project, follow Parts 1 to 3 below in order, completing each step as you go. 
-
-All resources are available in the downloadable <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">MaRIP Shared Resources folder</a>. 
 
 If you are already familiar with the setup and just need to find something, skip to the [_Quick Reference & Downloads_](#quick-reference--downloads) section at the bottom of the page.
 
