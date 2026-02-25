@@ -38,13 +38,8 @@ SOP1a is the foundation document for all MaRIP projects. It contains:
   - Template folder system (TFS)
   - Unique identifiers
   - Storage guidance
-- Shared Resources layout (Figure 6) and how to use them
-- SOP Decision Tree (Figure 7) — helps you choose which SOPs to download
-
-<p align="center">
-  <img src="assets/img/MARIP_ProjectWorkflow.png" width="90%"><br>
-  <em>Figure 1: Complete MaRIP project workflow</em>
-</p>
+- <a href="assets/img/MARIP_SharedResources.png" target="_blank">Shared Resources layout</a> and how to use them
+- <a href="assets/img/MARIP_SopFramework.png" target="_blank">SOP Decision Tree </a> — helps you choose which SOPs to download
 
 ## Part 2 - Implement the Steps in SOP1a
 
