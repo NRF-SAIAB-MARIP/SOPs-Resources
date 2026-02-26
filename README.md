@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HRZ20D7BNQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HRZ20D7BNQ');
+</script>
+
 <a name="readme-top"></a>
 
 ![Mar-RIP](/assets/img/MARIP_Logo-2.png)
