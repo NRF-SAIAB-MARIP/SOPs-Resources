@@ -5,12 +5,16 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
+  // Visit your site with ?exclude_me=true once to permanently exclude yourself
   const urlParams = new URLSearchParams(window.location.search);
-  const isDebug = urlParams.get('debug') === 'true';
+  if (urlParams.get('exclude_me') === 'true') {
+    localStorage.setItem('ga_exclude', 'true');
+    console.log('GA tracking disabled for this browser.');
+  }
 
-  gtag('config', 'G-HRZ20D7BNQ', {
-    ...(isDebug && { debug_mode: true })
-  });
+  if (localStorage.getItem('ga_exclude') !== 'true') {
+    gtag('config', 'G-HRZ20D7BNQ');
+  }
 </script>
 
 <a name="readme-top"></a>
