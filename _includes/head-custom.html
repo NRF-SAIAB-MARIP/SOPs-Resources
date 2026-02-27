@@ -1,0 +1,17 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HRZ20D7BNQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  const urlParams = new URLSearchParams(window.location.search);
+  if (urlParams.get('exclude_me') === 'true') {
+    localStorage.setItem('ga_exclude', 'true');
+    console.log('GA tracking disabled for this browser.');
+  }
+
+  if (localStorage.getItem('ga_exclude') !== 'true') {
+    gtag('config', 'G-HRZ20D7BNQ');
+  }
+</script>
