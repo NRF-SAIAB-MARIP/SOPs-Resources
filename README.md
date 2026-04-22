@@ -119,7 +119,7 @@ Already familiar with the setup and just need to find something? Use the tables 
 | SOP | Description | Link |
 |-----|-------------|:----:|
 | SOP1a | Project Setup and Data Management | <a href="https://drive.google.com/file/d/17SNzH0hHySBhsFITdUm3iy7GbvAGOQqw" target="_blank">Open ↗</a> |
-| SOP1b | Quality Control | <a href="https://drive.google.com/drive/folders/1lSXq9-cIj7gET9h9USO84CIsnQnHahHd" target="_blank">Open ↗</a> |
+| SOP1b | Quality Control | <a href="https://drive.google.com/file/d/1liyKE7ZJQruZFm1Pmdf43CLte_oiE4SH" target="_blank">Open ↗</a> |
 | SOP1c | Calibration | <a href="https://drive.google.com/drive/folders/10qKTiBBTQqX2ZB2cpK67g1nnbTm-6Go9" target="_blank">Open ↗</a> |
 | SOP2a | BRUVs sampling | <a href="https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay" target="_blank">Open ↗</a> |
 | SOP2b | Landers sampling | <a href="https://drive.google.com/drive/folders/1zO3SdiR9outDXPhAs7IGDVrQjtjySOay" target="_blank">Open ↗</a> |
