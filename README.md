@@ -15,7 +15,7 @@
 
 # Getting Started with MaRIP Shared Resources
 
-The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. You can either access most resources directly from links below, or alternatively get access to the entire <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources</a> Google drive folder and use the READMEs to guide you.
+The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. You can either access most resources directly from links below, or alternatively get access to the entire Shared Resources Google drive folder and use the READMEs to guide you.
 
 If this is your first time working on a MaRIP project, follow Parts 1 to 3 below in order, completing each step as you go.
 
@@ -32,16 +32,14 @@ Before doing anything else, download and read <a href="https://drive.google.com/
 
 The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. 
 
-<a href="https://drive.google.com/file/d/17SNzH0hHySBhsFITdUm3iy7GbvAGOQqw/preview" target="_blank">SOP1a</a> is located at: `1_project_setup > 1.1_data_management > SOP1a - Project setup and Data management`
-
-SOP1a covers the following, all of which you will need to refer to as you work through Parts 2 and 3:
+<a href="https://drive.google.com/file/d/17SNzH0hHySBhsFITdUm3iy7GbvAGOQqw/preview" target="_blank">SOP1a</a> covers the following, all of which you will need to refer to as you work through Parts 2 and 3:
 
 - <a href="assets/img/MARIP_ProjectWorkflow.png" target="_blank">Complete project workflow (Figure 1)</a> — an overview of the full MaRIP project lifecycle from setup to data publication
-- <a href="assets/img/MARIP_ProjectSetupTree.png" target="_blank">Project setup decision tree (Figure 2)</a> — use this to confirm which setup option applies to you before starting Part 2
+- <a href="assets/img/MARIP_ProjectSetupTree.pdf" target="_blank">Project setup decision tree (Figure 2)</a> — use this to confirm which setup option applies to you before starting Part 2
 - <a href="assets/img/MARIP_SopFramework.png" target="_blank">SOP framework overview (Figure 3)</a> — shows how the SOPs are organised across project setup, sampling, and data extraction
 - Data management systems, including:
   - Role-based workflow — who is responsible for what at each stage
-  - <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Template Folder System (TFS)</a> — the standardised folder structure used across all MaRIP projects
+  - <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Template Folder System (TFS)</a> — the standardised folder structures used across all MaRIP projects
   - Unique identifier codes — how samples, fieldtrips, and projects are named and tracked
   - Storage guidance — hard drive requirements and long-term archiving
 - <a href="assets/img/MARIP_SharedResources.png" target="_blank">Shared Resources layout (Figure 6)</a> — a visual map of the Shared Resources folder and where to find everything
