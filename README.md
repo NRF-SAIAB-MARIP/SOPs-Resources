@@ -84,8 +84,8 @@ Before populating your resources folder use the <a href="assets/img/MARIP_Projec
 
 ### Step 3: Going into the field?
 
-- **Yes** - once you have populated your 1_resources TFS, copy the project/fieldtrip TFS onto a prepared hard drive before departure. Ensure field sheets are printed and SOPs are accessible
-- **No** - work directly from your local workspace (laptop or NAS)
+- **Yes** - copy your resources and project/fieldtrip TFS onto a prepared hard drive before departure. Ensure field sheets are printed
+- **No** - work directly from your local workspace (laptop or NAS). Access raw data (e.g. footage) from the institution's NAS when on-site, or from a hard drive when working remotely.
 
 ### Step 4: Read the Relevant SOPs for Your Role
 
