@@ -17,7 +17,7 @@
 
 The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. You can either access most resources directly from links below, or alternatively get access to the entire Shared Resources Google drive folder and use the READMEs to guide you.
 
-If this is your first time working on a MaRIP project, follow Parts 1 to 3 below in order, completing each step as you go.
+If this is your first time working on a MaRIP project, follow Parts 1 and 2 below in order, completing each step as you go.
 
 If you are already familiar with the setup and just need to find something, skip to the [_Quick Reference & Downloads_](#quick-reference--downloads) section at the bottom of the page.
 
