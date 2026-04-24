@@ -17,7 +17,7 @@
 
 The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. You can either access most resources directly from links below, or alternatively get access to the entire Shared Resources Google drive folder and use the READMEs to guide you.
 
-If this is your first time working on a MaRIP project, follow Parts 1 and 2 below in order, completing each step as you go.
+If this is your first time working on a MaRIP project, follow Parts 1 and below in order, completing each step as you go.
 
 If you are already familiar with the setup and just need to find something, skip to the [_Quick Reference & Downloads_](#quick-reference--downloads) section at the bottom of the page.
 
@@ -30,8 +30,6 @@ Before doing anything else, download and read <a href="https://drive.google.com/
 
 <br>
 
-The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj?usp=sharing" target="_blank">Shared Resources</a> folder is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. 
-
 <a href="https://drive.google.com/file/d/17SNzH0hHySBhsFITdUm3iy7GbvAGOQqw/preview" target="_blank">SOP1a</a> covers the following, all of which you will need to refer to as you work through Parts 2 and 3:
 
 - <a href="assets/img/MARIP_ProjectWorkflow.png" target="_blank">Complete project workflow (Figure 1)</a> - an overview of the full MaRIP project lifecycle from setup to data publication
@@ -39,7 +37,7 @@ The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4f
 - <a href="assets/img/MARIP_SopFramework.png" target="_blank">SOP framework overview (Figure 3)</a> - shows how the SOPs are organised across project setup, sampling, and data extraction
 - Data management systems, including:
   - Role-based workflow - who is responsible for what at each stage
-  - <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Template Folder System (TFS)</a> - the standardised folder structures used across all MaRIP projects
+  - <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Template Folder Systems (TFS)</a> - the standardised folder structures used across all MaRIP projects
   - Unique identifier codes - how samples, fieldtrips, and projects are named and tracked
   - Storage guidance - hard drive requirements and long-term archiving
 - <a href="assets/img/MARIP_SharedResources.png" target="_blank">Shared Resources layout (Figure 6)</a> - a visual map of the Shared Resources folder and where to find everything
@@ -66,7 +64,7 @@ Before populating your resources folder use the <a href="assets/img/MARIP_Projec
 ### Step 2: What do you need to set up?
 
   **Option 1: Full new project (permits, ethics etc.)**
-   - Download the <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">Template Folder System (TFS)</a> to your local workspace (e.g. BRUVs_Projects > 2_projects)
+   - Download the <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm?usp=share_link" target="_blank">2_project TFS</a> to your local workspace (e.g. BRUVs_Projects > 2_projects)
    - Rename the project & fieldtrip folder using the project & fieldtrip unique identifier codes (e.g. Algoa Bay > 21-03_AB)
    - Copy (if you have more than one method per fieldtrip) the method folder and rename to match the method(s) that will be used (e.g. sbruvs, landers, dovs, rovs, dropcam)
    *If you plan on doing future projects or fieldtrips, keep a copy of the empty 2_project / 2_fieldtrip folder for future use
