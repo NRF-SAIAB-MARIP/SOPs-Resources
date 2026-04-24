@@ -57,6 +57,13 @@ Before populating your resources folder use the <a href="assets/img/MARIP_Projec
 
 <br>
 
+<b>Step 1: Do you have a populated 1_resources folder?</b>
+
+- No —> create a main folder on your local workspace (e.g. BRUVs_Projects), download the <a href="https://drive.google.com/drive/folders/1klWTo05PjByNcBYqMNGgvySqE7anpMxm" target="_blank">1_resources TFS</a>. Once your folder is in place, you need to fill it with the SOPs and supporting materials relevant to your role. All of these come from the <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources</a> folder.
+
+- Use the <a href="assets/img/MARIP_SharedResources.png" target="_blank">Shared Resources layout (Figure 6)</a> to understand where everything is kept, and the <a href="https://drive.google.com/file/d/13nf0uaZjpP-QokfQUO__gxV727XF38hu/preview" target="_blank">SOP Decision Tree (Figure 7)</a> to identify which SOPs apply to your role and methods. The full list of SOPs is available in the [Quick Reference & Downloads](#quick-reference--downloads) section below.
+
+
 **Option 1 — New Project** *(you need permits, ethics approval, and a full project setup)*
 
 1. Prepare your hard drive for field sampling
