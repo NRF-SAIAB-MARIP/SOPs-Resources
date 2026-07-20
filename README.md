@@ -38,6 +38,7 @@ Follow the instructions below or use the  <a href="https://drive.google.com/file
 
 <iframe src="https://drive.google.com/file/d/1z-pdYZA9ZMjZh8xUlu6JCccnyc5CQtA0/preview" width="100%" height="500px"></iframe>
 
+**Figure 1:** Workspace layout showing the Template Folder Systems (TFS): **1_resources** TFS (grey) has all SOPs and templates; **2_project** TFS (orange & green) organises your project, fieldtrip and data extraction data. **1_resources** TFS is downloaded once to a central location and reused across projects/fieldtrips; **2_project** TFS is downloaded and renamed per project/fieldtrip. The orange arrow shows the Metadata Workbook copy path for users going into the field 
 
 
 
