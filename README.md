@@ -13,6 +13,14 @@
 
 <br>
 
+### Getting Started with MaRIP Shared Resources
+
+The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources Folder</a> is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. You can either access most resources directly from the links below, or alternatively access the entire Shared Resources Google drive folder and use the READMEs to guide you.
+
+If this is your first time working on a MaRIP project, follow instructions below, completing each step as you go.
+
+If you are already familiar with the setup and just need to find something, skip to the [_Quick Reference & Downloads_](#quick-reference--downloads) section at the bottom of the page.
+
 # Before you start
 
 Collaborative marine research - spanning multiple fieldtrips, analysts and projects - only works if everyone organises their data the same way. Standardised systems mean your data can be combined with others', quality-checked consistently, and used to answer questions at a scale no single project could manage alone.
@@ -42,7 +50,7 @@ Follow the instructions below or use the <a href="https://drive.google.com/file/
 
 #### Step 1: Do you have a populated 1_resources folder? 
 
--	**No ->** create a main folder on your local workspace (e.g. BRUVs_Projects), download the <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">1_resources TFS</a>. Use the <a href="https://drive.google.com/file/d/19M0Oj6tN6YMsLXo-SdzLNQL7jPAxtuXW/view?usp=sharing" target="_blank">Shared Resources layout</a> to understand where everything is kept, and the SOP Decision Tree to identify which SOPs apply to your role and methods. You can delete any resources that are not relevant to you. The full list of SOPs is available in the Quick Reference & Downloads section below.
+-	**No ->** create a main folder on your local workspace (e.g. BRUVs_Projects), download the <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">1_resources TFS</a>. Use the <a href="https://drive.google.com/file/d/19M0Oj6tN6YMsLXo-SdzLNQL7jPAxtuXW/view?usp=sharing" target="_blank">Shared Resources layout</a> to understand where everything is kept, and the <a href="https://drive.google.com/file/d/13nf0uaZjpP-QokfQUO__gxV727XF38hu/preview" target="_blank">SOP Decision Tree</a> to identify which SOPs apply to your role and methods. You can delete any resources that are not relevant to you. The full list of SOPs is available in the Quick Reference & Downloads section below.
 -	**Yes ->** proceed to Step 2
 
 
