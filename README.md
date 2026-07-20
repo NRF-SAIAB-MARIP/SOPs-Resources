@@ -32,16 +32,18 @@ Once you are set up (see below), more details on these core tools can be found i
 
 # Set Up Your Workspace
 
-**Choose Your Setup**
+### Choose Your Setup
 
-Follow the instructions below or use the  <a href="https://drive.google.com/file/d/12y5FWNqyZINq1Nhz4EIKAtVlbvjHm_76/view?pli=1" target="_blank">Project setup decision tree</a> to choose the right setup for your workspace. Your goal is to create the folder structure shown in the diagram below by downloading the two Template Folder Systems from the MaRIP Shared Resources: **1_resources** and **2_project**.
+Follow the instructions below or use the <a href="https://drive.google.com/file/d/12y5FWNqyZINq1Nhz4EIKAtVlbvjHm_76/view?pli=1" target="_blank">Project setup decision tree</a> to choose the right setup for your workspace. Your goal is to create the folder structure shown in the diagram below by downloading the two Template Folder Systems from the MaRIP Shared Resources: **1_resources** and **2_project**.
 
 <iframe src="https://drive.google.com/file/d/1z-pdYZA9ZMjZh8xUlu6JCccnyc5CQtA0/preview" width="100%" height="500px"></iframe>
 
 **Figure 1:** Workspace layout showing the Template Folder Systems (TFS): **1_resources** TFS (grey) has all SOPs and templates; **2_project** TFS (orange & green) organises your project, fieldtrip and data extraction data. **1_resources** TFS is downloaded once to a central location and reused across projects/fieldtrips; **2_project** TFS is downloaded and renamed per project/fieldtrip. The orange arrow shows the Metadata Workbook copy path for users going into the field 
 
+#### Step 1: Do you have a populated 1_resources folder? 
 
-
+-	**No ->** create a main folder on your local workspace (e.g. BRUVs_Projects), download the <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">1_resources TFS</a>. Use the <a href="https://drive.google.com/file/d/19M0Oj6tN6YMsLXo-SdzLNQL7jPAxtuXW/view?usp=sharing" target="_blank">Shared Resources layout</a> to understand where everything is kept, and the SOP Decision Tree to identify which SOPs apply to your role and methods. You can delete any resources that are not relevant to you. The full list of SOPs is available in the Quick Reference & Downloads section below.
+-	**Yes ->** proceed to Step 2
 
 
 
