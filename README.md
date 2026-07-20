@@ -13,7 +13,38 @@
 
 <br>
 
-# Getting Started with MaRIP Shared Resources
+# Before you start
+
+Collaborative marine research - spanning multiple fieldtrips, analysts and projects - only works if everyone organises their data the same way. Standardised systems mean your data can be combined with others', quality-checked consistently, and used to answer questions at a scale no single project could manage alone.
+
+To support this, MaRIP uses three core tools:
+
+**Template Folder Systems (TFS)** - standardised folder structures that organise your resources, project data, fieldtrip data and extraction outputs. See below figure for the full layout, but we have two main TFS:
+
+-	1_resources: folders that stores all resources, downloaded once and reused across projects.
+-	2_project: folder structure that organises everything associated with a project, fieldtrip, samples and extraction.
+
+**Unique Identifier Codes** - every sample, fieldtrip and project gets a consistent unique code (e.g. 22-04_ab_sbruvs_001) so data can be sorted, tracked and integrated across teams.
+
+**Standard Operating Procedures (SOPs)** - step-by-step guides for every phase of a MaRIP project, from field setup to data archiving. Organised by role and method so you only need the ones relevant to you. 
+
+Once you are set up (see below), more details on these core tools can be found in **SOP1a: Project Setup & Data Management** - available directly from your 1_resources folder (once set up) or view it <a href="https://drive.google.com/file/d/12y5FWNqyZINq1Nhz4EIKAtVlbvjHm_76/view?pli=1" target="_blank">here</a>.
+
+# Set Up Your Workspace
+
+**Choose Your Setup**
+
+Follow the instructions below or use the  <a href="https://drive.google.com/file/d/12y5FWNqyZINq1Nhz4EIKAtVlbvjHm_76/view?pli=1" target="_blank">Project setup decision tree</a> to choose the right setup for your workspace. Your goal is to create the folder structure shown in the diagram below by downloading the two Template Folder Systems from the MaRIP Shared Resources: **1_resources** and **2_project**.
+
+<iframe src="https://drive.google.com/file/d/1z-pdYZA9ZMjZh8xUlu6JCccnyc5CQtA0/preview" width="100%" height="500px"></iframe>
+
+
+
+
+
+
+
+
 
 The <a href="https://drive.google.com/drive/folders/1-TXOWxBSvXX0618xqpZMe30GI4fDvpJj" target="_blank">Shared Resources Folder</a> is a Google Drive folder containing all MaRIP SOPs, templates, field sheets, and reference materials. You can either access most resources directly from the links below, or alternatively access the entire Shared Resources Google drive folder and use the READMEs to guide you.
 
